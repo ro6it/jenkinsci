@@ -30,8 +30,8 @@ In the output that's returned, take note of the VPC ID.
 ```
 {
         "Vpc": {
-             "VpcId": "vpc-2f09a348",
-               ...
+             	"VpcId": "vpc-2f09a348",
+               	...
                }
 }
 ```
@@ -73,10 +73,10 @@ In the output that's returned, take note of the Internet gateway ID.
 ```
 {
     "InternetGateway"
-	      {
+	      	{
           "InternetGatewayId": "igw-1ff7a07b",
 
-        }
+        	}
 }
 ```
 
@@ -103,10 +103,10 @@ In the output that's returned, take note of the route table ID.
 ```
 {
         "RouteTable": {
-        ...
-                  "RouteTableId": "rtb-c1c8faa6",
-        ...
-                       }
+        	...
+                "RouteTableId": "rtb-c1c8faa6",
+        	...
+                      }
 }
 ```
 
@@ -253,10 +253,5 @@ aws ec2 associate-route-table --route-table-id rtb-06e5dcc8d80effdf1 --subnet-id
 
 
 **Diagram layout:**
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](Diagram.png)
