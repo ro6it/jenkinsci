@@ -248,4 +248,4 @@ enabling instances in the private subnet to connect to the internet.
 
 **Diagram layout:**
 
-![alt text](https://photos.app.goo.gl/aYXaANtEE8xeR63cA)
+![alt text](Untitled Diagram (2).png)
